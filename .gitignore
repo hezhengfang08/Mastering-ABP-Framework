@@ -1,1 +1,4 @@
 tempkey.jwk
+/Samples/Chapter-08/DemoApp/src/DemoApp.EntityFrameworkCore.DbMigrations/Migrations/DemoAppMigrationsDbContextModelSnapshot.cs
+/Samples/Chapter-08/DemoApp/src/DemoApp.EntityFrameworkCore.DbMigrations/Migrations/20230601080445_AbpMing_Initial.Designer.cs
+/Samples/Chapter-08/DemoApp/src/DemoApp.EntityFrameworkCore.DbMigrations/Migrations/20230601080445_AbpMing_Initial.cs
